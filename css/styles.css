@@ -6,22 +6,26 @@ h1,
 h2 {
   text-align: center;
 }
-a {
+footer {
+  display: block;
   text-align: center;
   margin: 5px;
-  color: green;
 }
 p {
   text-align: center;
 }
 div {
   display: block;
-  text-align: center;
 }
 .email {
   color: blue;
 }
 img {
-  margin: 20px;
+  display: block;
+  margin: 0 auto;
   border-radius: 8px;
+}
+a {
+  margin: 10px;
+  color: green;
 }
